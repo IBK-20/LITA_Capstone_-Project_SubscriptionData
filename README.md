@@ -6,7 +6,7 @@ This project involves analyzing customer data for a subscription service to iden
 ## Tools Used
 - Microsoft Excel for Exploration and Analysis [Click Here to view]
 - SQL to query the data for analysis [Click here to view](https://github.com/IBK-20/LITA_Capstone_-Project_SubscriptionData/blob/0cfa903ac5228948d622293528e610f7aece11a7/customer_data.sql)
-- PowerBI was used to create visualizations of the analysis [View Here].
+- PowerBI was used to create visualizations of the analysis [View Here](https://github.com/IBK-20/LITA_Capstone_-Project_SubscriptionData/blob/8e7c7cade564d34cabe3e34f51db771905157840/Subscription%20Analysis%20Dashboard.png).
 
 ## Analysis Questions
 - retrieve the total number of customers from each region.
