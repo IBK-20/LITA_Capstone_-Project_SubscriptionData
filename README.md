@@ -4,7 +4,7 @@
 This project involves analyzing customer data for a subscription service to identify segments and trends. The goal is to understand customer behavior, track subscription types, and identify key trends in cancellations and renewals.
 
 ## Tools Used
-- Microsoft Excel for Exploration and Analysis [Click Here to view]
+- Microsoft Excel for Exploration and Analysis [Click Here to view](https://universityoflagos-my.sharepoint.com/:x:/g/personal/210904532_live_unilag_edu_ng/EVVfqvw8aT9Mj6phUiCAchoBRnEIseRCigLfnzBNqeoGYQ?e=VHxmYI)
 - SQL to query the data for analysis [Click here to view](https://github.com/IBK-20/LITA_Capstone_-Project_SubscriptionData/blob/0cfa903ac5228948d622293528e610f7aece11a7/customer_data.sql)
 - PowerBI was used to create visualizations of the analysis [View Here](https://github.com/IBK-20/LITA_Capstone_-Project_SubscriptionData/blob/8e7c7cade564d34cabe3e34f51db771905157840/Subscription%20Analysis%20Dashboard.png).
 
